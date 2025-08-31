@@ -33,6 +33,8 @@
 
  # Windows服务需预先安装依赖
 
-  pip install pywin32 psutil
+  ```bash
+pip install pywin32 psutil
+```
 
   
