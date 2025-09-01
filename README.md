@@ -1,7 +1,7 @@
 # QST-Firewall-更新日志
 
 <p align="center">
-  <img alt="sai-coder-5" src="./RDLOGO.png">
+  <img alt="QST-F_LOGO" src="./RDLOGO.png">
 </p>
 
 这是一套具有自主监测防护能力的防火墙系统，可以有效杜绝恶意资源消耗（如挖矿，恶意消耗等）
